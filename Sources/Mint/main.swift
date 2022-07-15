@@ -1,4 +1,4 @@
 import MintCLI
 
-let mintCLI = MintCLI()
-mintCLI.execute()
+let mint_cli = MintCLI()
+mint_cli.execute()
